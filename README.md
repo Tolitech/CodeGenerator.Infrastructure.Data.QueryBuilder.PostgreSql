@@ -1,4 +1,4 @@
-# Infrastructure.Data.QueryBuilder.PostgreSql
+# Tolitech.CodeGenerator.Infrastructure.Data.QueryBuilder.PostgreSql
 Infrastructure Data QueryBuilder PostgreSQL library used in projects created by the Code Generator tool. 
 
 This project contains the implementation for using the Query Builder PostgreSQL. 
